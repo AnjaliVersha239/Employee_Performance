@@ -15,6 +15,7 @@ Employee performance evaluation is a critical task for organizations. This proje
 - Provide actionable insights for HR decision-making
 # Project Structure
 ├── Employee_Performance.ipynb   # Main notebook with analysis & models
+
 ├── README.md                   # Project documentation
 
 # Key Insights from Analysis
