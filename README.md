@@ -72,13 +72,13 @@ Based on analysis:
 - Scikit-learn
 
 # How to Run
-Clone the repository:
+# Clone the repository:
 git clone https://github.com/your-username/employee-performance.git
-Navigate to the folder:
+# Navigate to the folder:
 cd employee-performance
-Install dependencies:
+# Install dependencies:
 pip install -r requirements.txt
-Run the notebook:
+# Run the notebook:
 jupyter notebook Employee_Performance.ipynb
 
 # Future Improvements
